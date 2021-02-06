@@ -1,0 +1,18 @@
+{
+  "name": "skill-bunseki",
+  "productName": "SkillBunSeki",
+  "version": "0.0.1",
+  "description": "A GUI tool to generate wiki source codes for BEMANIWIKI SDVXV SKILL ANALYZER page",
+  "main": "./main.prod.js",
+  "author": {
+    "name": "SkillBunSeki",
+    "email": "hzy427@gmail.com",
+    "url": "https://rinchannowww.github.io"
+  },
+  "scripts": {
+    "electron-rebuild": "node -r ../.erb/scripts/BabelRegister.js ../.erb/scripts/ElectronRebuild.js",
+    "postinstall": "yarn electron-rebuild"
+  },
+  "license": "MIT",
+  "dependencies": {}
+}
