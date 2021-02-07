@@ -7,7 +7,7 @@ A GUI tool to generate wiki source codes for [BEMANIWIKI SDVXV SKILL ANALYZER pa
 - Input the course name and 3 tracks information of the course.
 - Click the `Generate` button and get the wiki codes.
 
-<img src="C:\Users\69118\codes\github\skill-bunseki\pics\demo.png" alt="demo" style="zoom:60%;" />
+<img src="pics\demo.png" alt="demo" style="zoom:60%;" />
 
 ## TODOs
 
