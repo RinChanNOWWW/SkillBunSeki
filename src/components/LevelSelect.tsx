@@ -21,7 +21,7 @@ const LevelSelect: React.FC<LevelSelectPropsType> = (props) => {
       value={value}
       onChange={onChange}
     >
-      {Array.from({ length: 20 }, (_item, index) => index + 1).map((v) => (
+      {Array.from({ length: 15 }, (_item, index) => index + 6).map((v) => (
         <Select.Option value={v} key={v}>
           {v}
         </Select.Option>

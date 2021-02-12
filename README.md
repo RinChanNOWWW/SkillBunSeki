@@ -5,6 +5,7 @@ A GUI tool to generate wiki source codes for [BEMANIWIKI SDVXV SKILL ANALYZER pa
 ## Usage
 
 - Input the course name and 3 tracks information of the course.
+- Click the `Use` button to use a course template, which can automatically generate the difficulties and levels (It's just a template, you should check and modify some course by yourself).
 - Click the `Generate` button and get the wiki codes.
 
 <img src="pics\demo.png" alt="demo" style="zoom:60%;" />
@@ -13,7 +14,6 @@ A GUI tool to generate wiki source codes for [BEMANIWIKI SDVXV SKILL ANALYZER pa
 
 - [ ] Beautify the UI.
 - [ ] Batch generate courses.
-- [ ] Provide some templates.
 
 ## Develop
 
