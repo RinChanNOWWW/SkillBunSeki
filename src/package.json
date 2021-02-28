@@ -1,7 +1,7 @@
 {
   "name": "skill-bunseki",
   "productName": "SkillBunSeki",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A GUI tool to generate wiki source codes for BEMANIWIKI SDVXV SKILL ANALYZER page",
   "main": "./main.prod.js",
   "author": {

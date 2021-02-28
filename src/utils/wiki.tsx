@@ -1,7 +1,7 @@
 import React from 'react';
 import { getDifficultyWikiColor, getLevelWikiColor } from './colors';
 
-function generateWikiCodes(info: Course.Information): React.ReactNode {
+function generateWikiCodes(info: Course.Information): React.ReactElement {
   return (
     <div>
       <div>{`|>|>|>|BGCOLOR(#C7E7FF):''${info.course}''|`}</div>
